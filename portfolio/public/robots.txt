@@ -1,0 +1,6 @@
+# robots.txt for aranya.dev / personal portfolio
+User-agent: *
+Allow: /
+Disallow: /admin
+
+Sitemap: https://aranya-portfolio.vercel.app/sitemap.xml
