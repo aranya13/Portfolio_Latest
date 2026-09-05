@@ -1,7 +1,0 @@
-{
-  "name": "DevFolio - Next Gen Portfolio",
-  "description": "A professional, responsive React portfolio featuring a themeable UI, 3D-inspired aesthetics, and an integrated Voice AI Assistant powered by Gemini.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
