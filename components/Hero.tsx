@@ -356,7 +356,7 @@ export const Hero: React.FC<HeroProps> = ({
                     </a>
 
                     <a
-                      href="https://www.linkedin.com/in/aranya-bahuguna-40a7b4251/"
+                      href="https://www.linkedin.com/in/aranya-bahuguna-485aa4251/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="py-2 rounded-lg bg-[#070c18] hover:bg-op-gold hover:text-op-ink text-op-cream border border-op-gold/30 text-xs font-mono flex items-center justify-center gap-1.5 transition-all shadow-sm"
